@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    margin: 100px;
+   
+}
+
+p {
+    font-size: 20px;
+    text-align: left;
+    
+    
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: bolds; 
+}
+
+b {
+    font-weight: bold;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.row > img {
+    margin: 10px;
+    width: 650px;
+    height: 500px;
+}
+
+
+
